@@ -44,3 +44,5 @@ Do the above and share your source code with everyone; just like we do.
 3. Depending on which IDE you are using execute either of the following commands:
    - For IntelliJ: `gradlew setupDevWorkspace idea genIntellijRuns build`
    - For Eclipse: `gradlew setupDevWorkspace eclipse build`
+
+...
